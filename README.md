@@ -1,2 +1,2 @@
-# py_recipe
+# py_ref
 python manual
